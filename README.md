@@ -45,7 +45,7 @@ AKTU | 2026
 
 ## Connect With Me
 
-* LinkedIn: Add your LinkedIn profile
+* LinkedIn: [suraj-singh-5262a4329](https://www.linkedin.com/in/suraj-singh-5262a4329/)
 * GitHub: [@surajdevlab](https://github.com/surajdevlab)
 
 ---
